@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lothdamaguichabi.github.io/al-folio/sitemap.xml
+Sitemap: https://lothdamaguichabi.github.io/sitemap.xml
