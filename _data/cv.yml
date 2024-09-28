@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Name:
+    - name: Name
       value: CHABI Loth Damagui
-    - name: Languages:
-      value:  French, English
+    - name: Languages
+      value: French, English
 
 - title: Education
   type: time_table
