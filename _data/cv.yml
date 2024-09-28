@@ -1,19 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: CHABI Loth Damagui
+      value: CHABI Loth Damagui
     - name: Languages
-      value: English, German
+      value: English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Université Sorbonne Paris Nord
+      year: Current
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: Master 2
+      institution: Université Sorbonne Paris Nord
       year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Master 2
+      institution: Institut de Mathématiques et de Sciences Physiques
+      year: 2022
       description:
         - Description 1.
         - Description 2.
