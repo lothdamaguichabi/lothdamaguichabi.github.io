@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD student
       institution: Université Sorbonne Paris Nord
       year: Current
       description:
@@ -19,19 +19,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Master 2
+    - title: Master 2 Mathématiques Fondamentales (Recherche)
       institution: Université Sorbonne Paris Nord
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Master 2
+      year: 2022-2024
+    - title: Master Mathématiques Fondamentales et Applications
       institution: Institut de Mathématiques et de Sciences Physiques
-      year: 2022
-      description:
-        - Description 1.
-        - Description 2.
-
+      year: 2020-2022
+    - title: Licence spéciale des classes préparatoires en Mathématiques
+      institution: Institut de Mathématiques et de Sciences Physiques
+      year: 2019-2020
+    - title: Classes préparatoires, option Mathématiques Physiques et Sciences de l’Ingénieur (MPSI)
+      institution: Institut de Mathématiques et de Sciences Physiques
+      year: 2018-2019
+      
 - title: Experience
   type: time_table
   contents:
