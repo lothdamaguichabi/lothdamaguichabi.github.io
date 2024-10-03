@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
+subtitle: <a href='#'>Université Sorbonne Paris Nord, LAGA,99 Avenue Jean-Baptiste Clément, 93430 Villetaneuse</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular:  # crops the image to make it circular
    more_info: >
      <p>Bureau A301</p>
      <p>chabi@math.univ-paris13.fr</p>
