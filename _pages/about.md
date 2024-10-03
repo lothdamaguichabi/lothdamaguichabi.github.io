@@ -3,9 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
-          <a href='#'>99 Avenue Jean-Baptiste Clément, 93430 Villetaneuse</a>.
-          <a href='#'>Bureau A301</a>. 
-
 
 profile:
   align: right
