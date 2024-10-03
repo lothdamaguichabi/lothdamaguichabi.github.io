@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular:  # crops the image to make it circular
   more_info: >
+     <p>Address: 99 Avenue Jean-Baptiste Clément, 93430 Villetaneuse</p>.  
      <p>Bureau: A301</p>
-     <p>email: chabi@math.univ-paris13.fr</p>
-     <p>Adress: 99 Avenue Jean-Baptiste Clément, 93430 Villetaneuse</p>.
+     <p>Email: chabi@math.univ-paris13.fr</p>
+     
      
 
 news: false # includes a list of news items
