@@ -19,4 +19,4 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
+I am a second year Ph.D student under professor Philippe SOUPLET at Laboratoire d'Analyse, Géométrie et Applications , in Université Sorbonne Paris Nord (Ex Paris XIII).
