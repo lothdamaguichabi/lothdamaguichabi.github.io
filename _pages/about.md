@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
+subtitle: false # <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
 
 profile:
   align: right
@@ -19,4 +19,5 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a second year Ph.D student under professor Philippe SOUPLET at Laboratoire d'Analyse, Géométrie et Applications , in Université Sorbonne Paris Nord (Ex Paris XIII).
+I am a second year Ph.D student under Philippe SOUPLET at Laboratoire d'Analyse Géométrie et Applications (LAGA), in Université Sorbonne Paris Nord (Ex Paris XIII).
+
