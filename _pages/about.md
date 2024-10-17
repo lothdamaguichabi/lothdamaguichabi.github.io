@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: false # <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
+subtitle: # <a href='#'>Université Sorbonne Paris Nord, LAGA</a>. 
 
 profile:
   align: right
