@@ -21,3 +21,5 @@ social: false # includes social icons at the bottom of the page
 ---
 I am a second year Ph.D student under Philippe SOUPLET at Laboratoire d'Analyse Géométrie et Applications (LAGA), in Université Sorbonne Paris Nord (Ex Paris XIII).
 
+The goal of my PhD thesis is to study blow-up behavior and Liouville-type properties for some nonlinear paraboloic equations: heat and Hamilton-Jacobi equations.
+
