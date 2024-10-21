@@ -10,7 +10,7 @@ nav_order: 5
 ## Mostly Maximum Principle  
    - **Location:** PUC-Rio, Rio de Janeiro  
    - **Date:** June 24-28, 2024  
-   - **Details:** [Event Program](https://eventos.cmm.uchile.cl/mmp2024/about-the-conference/)  
+   - **Details:** [Event Program](https://eventos.cmm.uchile.cl/mmp2024/)  
 
 ## Modern Methods in Nonlinear Elliptic and Parabolic PDE  
    - **Location:** ICMS, Plovdiv  
