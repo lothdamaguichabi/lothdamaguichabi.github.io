@@ -8,7 +8,7 @@ nav_order: 5
 ## PhD Students Seminar & Others (CY Cergy Paris Université)
    - **Location:** Cergy-Pontoise (France)
    - **Dates:** April 29, 2025
-   - **Details:** [Event Program](https://berthoumieujordan.wordpress.com/phd-seminar/)
+   - **Details:** [Event Information](https://berthoumieujordan.wordpress.com/phd-seminar/)
      
 ## Ph.D. Seminar (LAGA)  
    - **Location:** USPN, Villetaneuse  
