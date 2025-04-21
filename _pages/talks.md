@@ -5,7 +5,14 @@ title: Talks
 nav: true
 nav_order: 5
 ---
-
+## PhD Students Seminar & Others (CY Cergy Paris Université)
+   - **Location:** Cergy-Pontoise (France)
+   - **Dates:** April 29, 2025
+   - **Details:** [Event Program](https://berthoumieujordan.wordpress.com/phd-seminar/)
+     
+## Ph.D. Seminar (LAGA)  
+   - **Location:** USPN, Villetaneuse  
+   - **Dates:** April 17, 2025
 
 ## Mostly Maximum Principle  
    - **Location:** PUC-Rio, Rio de Janeiro  
