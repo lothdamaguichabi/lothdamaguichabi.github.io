@@ -9,10 +9,6 @@ nav_order: 5
    - **Location:** Cergy-Pontoise (France)
    - **Date:** April 29, 2025
    - **Details:** [Event Information](https://berthoumieujordan.wordpress.com/phd-seminar/)
-     
-## Ph.D. Seminar (LAGA)  
-   - **Location:** USPN, Villetaneuse  
-   - **Dates:** April 17, 2025
 
 ## Mostly Maximum Principle  
    - **Location:** PUC-Rio, Rio de Janeiro  
@@ -33,4 +29,4 @@ nav_order: 5
 
 ## Ph.D. Seminar (LAGA)  
    - **Location:** USPN, Villetaneuse  
-   - **Dates:** February 15, 2024 & May 23, 2024  
+   - **Dates:** February 15 & May 23, 2024; April 17, 2025.
