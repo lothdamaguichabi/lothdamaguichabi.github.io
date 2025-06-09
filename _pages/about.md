@@ -20,5 +20,9 @@ I am a second year Ph.D student under Philippe SOUPLET at Laboratoire d'Analyse 
 
 The goal of my PhD thesis is to study blow-up behavior and Liouville-type properties for some nonlinear paraboloic equations: heat and Hamilton-Jacobi equations.
 
+Adress: 99, avenue Jean-Baptiste Clément 93430 - Villetaneuse, France
+
+Office: A 301
+
 Email: chabi@math.univ-paris13.fr
 
