@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Conferences/Seminar
+title: Talks
 nav: true
 nav_order: 5
 ---
@@ -37,6 +37,6 @@ nav_order: 5
    - **Details:** [Event Information](https://sites.google.com/view/2023-period-pdes-icmat-uam/events/euro-japanese-conference-on-nonlinear-diffusions)  
 
 
-## Ph.D. Seminar (LAGA)  
+## PhD Seminar (LAGA)  
    - **Location:** USPN, Villetaneuse  
    - **Dates:** February 15 & May 23, 2024; April 17, 2025.
