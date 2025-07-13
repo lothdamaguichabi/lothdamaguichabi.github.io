@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Université Sorbonne Paris Nord, LAGA</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: LDC.jpg
   image_circular:  # crops the image to make it circular
   
      
