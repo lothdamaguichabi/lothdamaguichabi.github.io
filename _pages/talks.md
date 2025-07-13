@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Conferences/Seminar
 nav: true
 nav_order: 5
 ---
