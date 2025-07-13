@@ -5,7 +5,7 @@ title: Talks
 nav: true
 nav_order: 5
 ---
-## Non-linear elliptic PDE in Hauts-de-France - fourth edition
+## Non-linear elliptic PDE in Hauts-de-France - fourth edition (without talk)
    - **Location:** Calais (France)
    - **Date:** June 16-19, 2025
    - **Details:** [Event Information](https://4th-nlepde-hf.sciencesconf.org/) 
