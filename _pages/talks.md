@@ -7,7 +7,7 @@ nav_order: 5
 ---
 ## Non-linear elliptic PDE in Hauts-de-France - fourth edition
    - **Location:** Calais (France)
-   - **Date:**June 16-19, 2025
+   - **Date:** June 16-19, 2025
    - **Details:** [Event Information](https://4th-nlepde-hf.sciencesconf.org/) 
    
 ## Journées EDP 2025 (without talk)
