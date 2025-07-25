@@ -18,6 +18,7 @@ nav_order: 6
 - **Algèbre 1: Introduction aux structures mathématiques**  
   Université Sorbonne Paris Nord  
   1st year undergraduate, Mathematics and Computer Science
+  
 ---
 ### 2024 - 2025
 
