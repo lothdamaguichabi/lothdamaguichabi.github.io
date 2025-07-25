@@ -7,13 +7,25 @@ nav_order: 6
 ---
 
 ---
+### 2025 - 2026
+
+#### Semester 1
+
+- **Analyse 3: Séries numériques et intégrales généralisées**  
+  Université Sorbonne Paris Nord  
+  2nd year undergraduate, Computer Science
+
+- **Algèbre 1: Introduction aux structures mathématiques**  
+  Université Sorbonne Paris Nord  
+  1st year undergraduate, Mathematics and Computer Science
+---
 ### 2024 - 2025
 
 #### Semester 1
 
 - **Analyse 3: Séries numériques et intégrales généralisées**  
   Université Sorbonne Paris Nord  
-  2nd year undergraduate, Mathematics and Computer Science
+  2nd year undergraduate, Computer Science
 
 #### Semester 2
 
