@@ -17,7 +17,7 @@ nav_order: 6
 
 - **Algèbre 1: Introduction aux structures mathématiques**  
   Université Sorbonne Paris Nord  
-  1st year undergraduate, Mathematics and Computer Science
+  1st year undergraduate, Mathematics
   
 ---
 ### 2024 - 2025
@@ -41,7 +41,7 @@ nav_order: 6
 
 - **Analyse 1: Suites numériques et fonctions usuelles**  
   Université Sorbonne Paris Nord  
-  1st year undergraduate, Mathematics and Computer Science
+  1st year undergraduate, Mathematics
 
 - **Analyse 3: Séries numériques et intégrales généralisées**  
   Université Sorbonne Paris Nord  
