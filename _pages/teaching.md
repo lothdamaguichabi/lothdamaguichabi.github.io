@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching (exercise sessions)
+title: Teaching 
 nav: true
 nav_order: 6
 ---
 
 ---
-### 2025 - 2026
+### 2025 - 2026: EXERCISE SESSIONS
 
 #### Semester 1
 
@@ -20,7 +20,7 @@ nav_order: 6
   1st year undergraduate, Mathematics
   
 ---
-### 2024 - 2025
+### 2024 - 2025: EXERCISE SESSIONS
 
 #### Semester 1
 
@@ -35,7 +35,7 @@ nav_order: 6
   1st year undergraduate, Mathematics and Computer Science (PAM track)
 
 ---
-### 2023 - 2024
+### 2023 - 2024: EXERCISE SESSIONS
 
 #### Semester 1
 
