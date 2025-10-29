@@ -5,6 +5,11 @@ title: Talks
 nav: true
 nav_order: 5
 ---
+## International Conference on Recent Topics in Reaction-Diffusion Systems and Their Applications (Poster presentation)
+   - **Location:** Hokkaido University, Sapporo-Japan  
+   - **Date:** 20th - 24th, October 2025 
+   - **Details:** [Event Information](https://mmc01.es.hokudai.ac.jp/ReaDiNet/)  
+
 ## Non-linear elliptic PDE in Hauts-de-France - fourth edition (without talk)
    - **Location:** Calais (France)
    - **Date:** June 16-19, 2025
