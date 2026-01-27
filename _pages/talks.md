@@ -11,41 +11,34 @@ nav_order: 5
    
 ## [International Conference on Recent Topics in Reaction-Diffusion Systems and Their Applications](https://mmc01.es.hokudai.ac.jp/ReaDiNet/) (Poster presentation)
    - **Location:** Hokkaido University, Sapporo-Japan  
-   - **Date:** 20th - 24th, October 2025 
-   - **Details:** [Event Information](https://mmc01.es.hokudai.ac.jp/ReaDiNet/)  
+   - **Date:** 20th - 24th, October 2025   
 
-## Non-linear elliptic PDE in Hauts-de-France - fourth edition (without talk)
+## [Non-linear elliptic PDE in Hauts-de-France - fourth edition](https://4th-nlepde-hf.sciencesconf.org/) (without talk)
    - **Location:** Calais (France)
    - **Date:** June 16-19, 2025
-   - **Details:** [Event Information](https://4th-nlepde-hf.sciencesconf.org/) 
    
-## Journées EDP 2025 (without talk)
+   
+## [Journées EDP 2025](https://jedp2025.sciencesconf.org/) (without talk)
    - **Location:** Centre Paul Langevin-Aussois (France)
    - **Date:** June 2-6, 2025
-   - **Details:** [Event Information](https://jedp2025.sciencesconf.org/)
 
-## PhD Students Seminar & Others (CY Cergy Paris Université)
+## [PhD Students Seminar & Others (CY Cergy Paris Université)](https://berthoumieujordan.wordpress.com/phd-seminar/)
    - **Location:** Cergy-Pontoise (France)
    - **Date:** April 29, 2025
-   - **Details:** [Event Information](https://berthoumieujordan.wordpress.com/phd-seminar/)
 
-## Mostly Maximum Principle  
+## [Mostly Maximum Principle ](https://eventos.cmm.uchile.cl/mmp2024/)
    - **Location:** PUC-Rio, Rio de Janeiro  
-   - **Date:** June 24-28, 2024  
-   - **Details:** [Event Program](https://eventos.cmm.uchile.cl/mmp2024/)  
+   - **Date:** June 24-28, 2024   
 
-## Modern Methods in Nonlinear Elliptic and Parabolic PDE  
+## [Modern Methods in Nonlinear Elliptic and Parabolic PDE](https://sites.google.com/view/pdes-in-plovdiv/home?authuser=0)
    - **Location:** ICMS, Plovdiv  
    - **Date:** May 27-31, 2024  
-   - **Details:** [Event Information](https://sites.google.com/view/pdes-in-plovdiv/home?authuser=0)  
 
 
-## Euro-Japanese Conference on Nonlinear Diffusion (without talk)
+## [Euro-Japanese Conference on Nonlinear Diffusion](https://sites.google.com/view/2023-period-pdes-icmat-uam/events/euro-japanese-conference-on-nonlinear-diffusions) (without talk)
    - **Location:** ICMAT, Madrid  
    - **Date:** October 16-20, 2023  
-   - **Details:** [Event Information](https://sites.google.com/view/2023-period-pdes-icmat-uam/events/euro-japanese-conference-on-nonlinear-diffusions)  
-
-
+   
 ## PhD Seminar (LAGA)  
    - **Location:** USPN, Villetaneuse  
    - **Dates:** February 15 & May 23, 2024; April 17, 2025.
