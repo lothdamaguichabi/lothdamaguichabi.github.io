@@ -9,7 +9,7 @@ nav_order: 5
    - **Location:** Toulouse (France)
    - **Date:** January 27, 2027.
    
-## International Conference on Recent Topics in Reaction-Diffusion Systems and Their Applications (Poster presentation)
+## [International Conference on Recent Topics in Reaction-Diffusion Systems and Their Applications](https://mmc01.es.hokudai.ac.jp/ReaDiNet/) (Poster presentation)
    - **Location:** Hokkaido University, Sapporo-Japan  
    - **Date:** 20th - 24th, October 2025 
    - **Details:** [Event Information](https://mmc01.es.hokudai.ac.jp/ReaDiNet/)  
