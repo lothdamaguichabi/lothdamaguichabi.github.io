@@ -7,7 +7,7 @@ nav_order: 5
 ---
 ## [Séminaire MAC-IMT](https://indico.math.cnrs.fr/category/535/)
    - **Location:** Toulouse (France)
-   - **Date:** Jannuary 27, 2027.
+   - **Date:** January 27, 2027.
    
 ## International Conference on Recent Topics in Reaction-Diffusion Systems and Their Applications (Poster presentation)
    - **Location:** Hokkaido University, Sapporo-Japan  
