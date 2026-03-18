@@ -8,7 +8,7 @@ nav_order: 5
 ## [CJC-MA 2026: Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjcma2026.sciencesconf.org/program?lang=fr)
    - **Location:** Champs-sur-Marne (France)
    - **Date:** March 2-4, 2026.
-   - 
+     
 ## [Séminaire MAC-IMT](https://indico.math.cnrs.fr/category/535/)
    - **Location:** Toulouse (France)
    - **Date:** January 27, 2026.
