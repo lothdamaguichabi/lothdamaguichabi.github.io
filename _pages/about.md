@@ -23,7 +23,7 @@ I completed my PhD under the supervision of Philippe Souplet at the "Laboratoire
 My research focuses on the mathematical analysis of nonlinear partial differential equations, with particular emphasis on the existence, regularity, and asymptotic behavior of solutions.
 More specifically, I have investigated blow-up phenomena and Liouville-type properties for nonlinear parabolic equations, including nonlinear heat equations with non-scale-invariant nonlinearities, diffusive Hamilton–Jacobi equation, the parabolic-elliptic Keller-Segel system and the one-dimensional Prandtl problem.
 
-See [my resume](/assets/pdf/CV1.pdf) for more details.
+See [my resume](/assets/pdf/CV-LDC-2026-1.pdf) for more details.
 
 Address: 2, avenue Adolphe Chauvin 95302--Cergy-Pontoise CEDEX, France. 
 
