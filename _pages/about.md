@@ -21,7 +21,7 @@ I am a Postdoctoral Researcher at the "Laboratoire d’Analyse Géométrie et Mo
 I completed my PhD under the supervision of Philippe Souplet at the "Laboratoire d’Analyse Géométrie et Applications" (LAGA), in "Université Sorbonne Paris Nord" (USPN).
 
 My research focuses on the mathematical analysis of nonlinear partial differential equations, with particular emphasis on the existence, regularity, and asymptotic behavior of solutions.
-More specifically, I investigated blow-up behavior and Liouville-type properties for nonlinear parabolic equations, including nonlinear heat equations with non-scale-invariant nonlinearities, diffusive Hamilton–Jacobi equation, the parabolic-elliptic Keller-Segel system and the one-dimensional Prandtl problem.
+More specifically, I have investigated blow-up phenomena and Liouville-type properties for nonlinear parabolic equations, including nonlinear heat equations with non-scale-invariant nonlinearities, diffusive Hamilton–Jacobi equation, the parabolic-elliptic Keller-Segel system and the one-dimensional Prandtl problem.
 
 See [my resume](/assets/pdf/CV1.pdf) for more details.
 
