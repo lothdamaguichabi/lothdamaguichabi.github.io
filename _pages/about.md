@@ -16,15 +16,17 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a third year PhD student under Philippe SOUPLET at Laboratoire d'Analyse Géométrie et Applications (LAGA), in Université Sorbonne Paris Nord (USPN).
+I am a Postdoctoral Researcher at the "Laboratoire d’Analyse Géométrie et Modelisation" (\href{https://cyagm.cyu.fr/}{AGM}) in "CY Cergy Paris université", under the supervision of \href{https://www.normalesup.org/~collot/}{Charles COLLOT}. My current research is part of the ERC Starting Grant project FloWAS, led by Charles Collot.
 
-The goal of my PhD thesis is to study blow-up behavior and Liouville-type properties for some nonlinear paraboloic equations: heat and Hamilton-Jacobi equations, and parabolic-alliptic Keller-Segel system.
+I completed my PhD under the supervision of \href{https://www.math.univ-paris13.fr/~souplet/}{Philippe SOUPLET} at the "Laboratoire d’Analyse Géométrie et Applications" \href{https://www.math.univ-paris13.fr/}{(LAGA)}, in "Université Sorbonne Paris Nord" \href{https://www.univ-spn.fr/}{(USPN)}.
+
+My research focuses on the mathematical analysis of nonlinear partial differential equations, with particular emphasis on the existence, regularity, and asymptotic behavior of solutions.
+More specifically, I investigated blow-up behavior and Liouville-type properties for nonlinear parabolic equations, including nonlinear heat equations with non-scale-invariant nonlinearities, diffusive Hamilton–Jacobi equation, the parabolic-elliptic Keller-Segel system and the one-dimensional Prandtl problem.
 
 See [my resume](/assets/pdf/CV1.pdf) for more details.
 
-Address: 99, avenue Jean-Baptiste Clément 93430 - Villetaneuse, France
+Address: 2, avenue Adolphe Chauvin 95302--Cergy-Pontoise CEDEX, France. 
 
-Office: A 301
 
-Email: chabi@math.univ-paris13.fr
+Email: loth-damagui.chabi@cyu.fr
 
