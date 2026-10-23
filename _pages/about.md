@@ -16,7 +16,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a Postdoctoral Researcher at the "Laboratoire d’Analyse Géométrie et Modelisation" (AGM) in "CY Cergy Paris université". My current research is part of the ERC Starting Grant project FloWAS and an ANR Chaire Professeur Junior, led by Charles Collot.
+I am a Postdoctoral Researcher at the "Laboratoire d’Analyse Géométrie et Modelisation" (AGM) in "CY Cergy Paris Université". My current research is part of the ERC Starting Grant project FloWAS and an ANR Chaire Professeur Junior, led by Charles Collot.
 
 I completed my PhD under the supervision of Philippe Souplet at the "Laboratoire d’Analyse Géométrie et Applications" (LAGA), in "Université Sorbonne Paris Nord" (USPN).
 
